@@ -1,2 +1,3 @@
 text
 'This is text from master branch'
+'This is text from conflict_branch branch'
